@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\FreelanceProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\FreelanceProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\FreelanceProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_disabled_button.xml.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\FreelanceProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\src\\main\\res\\drawable-hdpi\\disabled_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\FreelanceProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_background.xml.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\FreelanceProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\src\\main\\res\\drawable-hdpi\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\FreelanceProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_ocr_capture.xml.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\FreelanceProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\src\\main\\res\\layout\\ocr_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\FreelanceProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\FreelanceProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\FreelanceProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_steg_image.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\FreelanceProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\src\\main\\res\\drawable-hdpi\\steg_image.png"
+    }
+]

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="text data is being spoken!" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e575d6f-d5fd-40b6-aa35-6e9f76a23d4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/button_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/disabled_button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/steg_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/app/src/main/java/com/google/android/gms/samples/vision/face/facetracker/FaceGraphic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/app/src/main/java/com/google/android/gms/samples/vision/face/facetracker/FaceTrackerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/app/src/main/java/com/google/android/gms/samples/vision/face/facetracker/ui/camera/CameraSourcePreview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/app/src/main/java/com/google/android/gms/samples/vision/face/facetracker/ui/camera/GraphicOverlay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/app/src/main/res/drawable-xhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/app/src/main/res/layout-land/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/app/src/main/res/layout/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceTracker/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/java/com/google/android/gms/samples/vision/barcodereader/BarcodeCaptureActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/java/com/google/android/gms/samples/vision/barcodereader/BarcodeGraphic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/java/com/google/android/gms/samples/vision/barcodereader/BarcodeGraphicTracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/java/com/google/android/gms/samples/vision/barcodereader/BarcodeTrackerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/java/com/google/android/gms/samples/vision/barcodereader/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/java/com/google/android/gms/samples/vision/barcodereader/ui/camera/CameraSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/java/com/google/android/gms/samples/vision/barcodereader/ui/camera/CameraSourcePreview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/java/com/google/android/gms/samples/vision/barcodereader/ui/camera/GraphicOverlay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/res/drawable-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/res/layout-land-v17/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/res/layout-land/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/res/layout-land/barcode_capture.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/res/layout-v17/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/res/layout/barcode_capture.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barcode-reader/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/app/src/main/java/com/google/android/gms/samples/vision/face/googlyeyes/EyePhysics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/app/src/main/java/com/google/android/gms/samples/vision/face/googlyeyes/GooglyEyesActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/app/src/main/java/com/google/android/gms/samples/vision/face/googlyeyes/GooglyEyesGraphic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/app/src/main/java/com/google/android/gms/samples/vision/face/googlyeyes/GooglyFaceTracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/app/src/main/java/com/google/android/gms/samples/vision/face/googlyeyes/ui/camera/CameraSourcePreview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/app/src/main/java/com/google/android/gms/samples/vision/face/googlyeyes/ui/camera/GraphicOverlay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/app/src/main/res/drawable-xhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/app/src/main/res/layout-land/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/app/src/main/res/layout/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../googly-eyes/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/app/src/main/java/com/google/android/gms/samples/vision/face/multitracker/BarcodeTrackerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/app/src/main/java/com/google/android/gms/samples/vision/face/multitracker/FaceTrackerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/app/src/main/java/com/google/android/gms/samples/vision/face/multitracker/GraphicTracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/app/src/main/java/com/google/android/gms/samples/vision/face/multitracker/MultiTrackerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/app/src/main/java/com/google/android/gms/samples/vision/face/multitracker/TrackedGraphic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/app/src/main/java/com/google/android/gms/samples/vision/face/multitracker/ui/camera/CameraSourcePreview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/app/src/main/java/com/google/android/gms/samples/vision/face/multitracker/ui/camera/GraphicOverlay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/app/src/main/res/drawable-xhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/app/src/main/res/layout-land/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/app/src/main/res/layout/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-tracker/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/OcrCaptureActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/OcrCaptureActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/OcrDetectorProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/OcrDetectorProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/OcrGraphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/OcrGraphic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/ui/camera/CameraSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/ui/camera/CameraSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/ui/camera/CameraSourcePreview.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/ui/camera/CameraSourcePreview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/ocr_capture.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/ocr_capture.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/OcrCaptureActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/OcrDetectorProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/OcrGraphic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/ui/camera/CameraSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/ui/camera/CameraSourcePreview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/ui/camera/GraphicOverlay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/src/main/res/drawable-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/src/main/res/layout-land-v17/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/src/main/res/layout-land/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/src/main/res/layout-v17/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/src/main/res/layout/ocr_capture.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocr-reader/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/app/src/androidTest/java/com/google/android/gms/samples/vision/face/photo/ApplicationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/app/src/main/java/com/google/android/gms/samples/vision/face/patch/SafeFaceDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/app/src/main/java/com/google/android/gms/samples/vision/face/photo/FaceView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/app/src/main/java/com/google/android/gms/samples/vision/face/photo/PhotoViewerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/app/src/main/res/drawable-xhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/app/src/main/res/layout/activity_photo_viewer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/app/src/main/res/raw/face.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photo-demo/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1cXvqhPdYvX44pujYPkRGXQR9Vm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../MediumGraphQL/Client" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.google.android.gms.samples.vision.ocrreader" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ahmed\Desktop\FreelanceProject\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\res\drawable-hdpi" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e575d6f-d5fd-40b6-aa35-6e9f76a23d4a" name="Default Changelist" comment="" />
+      <created>1590687944403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590687944403</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
